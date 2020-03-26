@@ -1,0 +1,2 @@
+lib/app/modules/components/cardItem/cardItem_widget.dart
+test/app/modules/components/cardItem/cardItem_widget_test.dart

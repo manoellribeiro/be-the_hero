@@ -1,0 +1,2 @@
+lib/app/modules/home/pages/splashScreen/splashScreen_page.dart
+test/app/modules/home/pages/splashScreen/splashScreen_page_test.dart

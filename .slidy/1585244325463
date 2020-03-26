@@ -1,0 +1,2 @@
+lib/app/modules/home/components/cardItemLandscape/cardItemLandscape_widget.dart
+test/app/modules/home/components/cardItemLandscape/cardItemLandscape_widget_test.dart
