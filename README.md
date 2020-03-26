@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="" width="120px" />
-  <img src="" width="300px" />
-  <img src="" width="120px" />
-  <img src="" width="300x" />
+  <img src="https://github.com/manoellribeiro/be-the_hero/blob/master/appPreview/homePortrait.jpeg" width="120px" />
+  <img src="https://github.com/manoellribeiro/be-the_hero/blob/master/appPreview/homeLandscape.jpeg" width="300px" />
+  <img src="https://github.com/manoellribeiro/be-the_hero/blob/master/appPreview/contactPortrait.jpeg" width="120px" />
+  <img src="https://github.com/manoellribeiro/be-the_hero/blob/master/appPreview/contactLandscape.jpeg" width="300x" />
 </h1>
 
 <h3 align="center">
